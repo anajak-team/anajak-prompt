@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Vault",
+  "description": "A stylish and modern application to create, save, and manage your creative prompts. You can add a title, detailed prompt text, and an inspirational image for each entry. All data is saved locally in your browser.",
+  "requestFramePermissions": []
+}
